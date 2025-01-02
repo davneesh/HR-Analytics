@@ -1,5 +1,6 @@
 # HR Analytics
 
-# Overview 
+## Dashboard
 
+<img src="image.png></img>
 
